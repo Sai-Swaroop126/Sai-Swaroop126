@@ -6,14 +6,20 @@ I'm a Computer Science graduate interested in building practical applications ac
 
 I enjoy working with Python, Java, and SQL to solve problems and turn ideas into working projects.
 
-## 🛠️ Tech Stack
 
-**Languages:** Python, Java, SQL  
-**Backend:** FastAPI, Flask, REST APIs  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Data Engineering:** Pandas, BigQuery, ETL Pipelines  
-**AI/ML:** PyTorch, Transformers, RAG, ChromaDB  
-**Tools:** Git, GitHub, Streamlit
+
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,flask,mysql,postgres,mongodb,git,github,vscode" />
+</p>
+
+### 🤖 AI & Data Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,gcp" />
+</p>
 
 ## 🚀 Featured Projects
 
