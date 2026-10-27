@@ -9,17 +9,51 @@ I enjoy working with Python, Java, and SQL to solve problems and turn ideas into
 
 
 
+
 ## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,flask,mysql,postgres,mongodb,git,github,vscode" />
-</p>
-
-### 🤖 AI & Data Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,gcp" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="45" /><br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" /><br>FastAPI
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" /><br>Flask
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" /><br>Google Cloud
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" /><br>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45" /><br>GitHub
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
